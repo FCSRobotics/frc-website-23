@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+:root {
+	--text: black;
+	--background: #fefcfb;
+	--primary: #1d3e54;
+	--secondary: #dbceee;
+	--accent: #3d84b3;
+}
+
+html,
+body {
+	margin: 0px;
+	height: 100%;
+	font-family: "PT Serif", serif;
+}
