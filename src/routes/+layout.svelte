@@ -2,6 +2,7 @@
   <a href="/">Home</a><a href="/about">About us</a><a href="/past-robots"
     >Past robots</a
   >
+  <a href="/butter-game">Butter game</a>
 </nav>
 
 <main>
