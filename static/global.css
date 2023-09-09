@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dosis:wght@300;500;700&display=swap");
 :root {
 	--text: black;
 	--background: #fefcfb;
@@ -11,5 +11,20 @@ html,
 body {
 	margin: 0px;
 	height: 100%;
-	font-family: "PT Serif", serif;
+	font-family: "Dosis", sans-serif;
+}
+
+h1 {
+	font-size: 3em;
+}
+
+section,
+.section {
+	background-color: var(--accent);
+	padding: 3rem;
+	border-radius: 20px;
+	box-shadow: 0px 7px 29px 13px rgba(153, 153, 153, 0.67);
+	-webkit-box-shadow: 0px 7px 29px 13px rgba(153, 153, 153, 0.67);
+	-moz-box-shadow: 0px 7px 29px 13px rgba(153, 153, 153, 0.67);
+	color: white;
 }
