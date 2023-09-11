@@ -22,8 +22,8 @@
     margin-bottom: 0px;
   }
   [role="doc-subtitle"] {
-    color: #c2c2c2;
-    /*font-size: 2rem;*/
+    /* color: #c2c2c2; */
+    font-size: 2rem;
   }
 
   header {
@@ -37,6 +37,6 @@
     background: url("/meeting.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: bottom 100px;
+    background-position: top 100px;
   }
 </style>
