@@ -4,7 +4,7 @@
 
 <header>
   <h1>Earthquakers 9094</h1>
-  <div role="doc-subtitle">Roboticts team of Friend Central School</div>
+  <div role="doc-subtitle">Robotics team of Friend Central School</div>
 </header>
 <p>
   The Earthquakers, established in the fall of 2022, are the robotics team
@@ -23,10 +23,11 @@
   }
   [role="doc-subtitle"] {
     color: #c2c2c2;
-    font-size: 2rem;
+    /*font-size: 2rem;*/
   }
 
   header {
+    color: white;
     width: 100%;
     display: grid;
     place-items: center;
@@ -36,5 +37,6 @@
     background: url("/meeting.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: bottom 100px;
   }
 </style>
