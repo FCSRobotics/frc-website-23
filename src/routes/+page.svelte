@@ -37,6 +37,6 @@
     background: url("/meeting.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: top 1000000px;
+    background-position: bottom;
   }
 </style>
