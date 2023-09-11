@@ -47,8 +47,8 @@
 
   #blur {
     margin: 0px;
-    width: 100%;
-    height: 100%;
+    width: 100vh;
+    height: 100vw;
 
     backdrop-filter: blur(8px);
     -webkit-backdrop-filter: blur(8px);
