@@ -1,7 +1,5 @@
 <nav>
-  <a href="/">Home</a><a href="/about">About us</a><a href="/past-robots"
-    >Past robots</a
-  >
+  <a href="/">Home</a><a href="/past-robots">Past robots</a>
   <a href="/contact">Follow us</a>
   <a href="/our-community">Our Community</a>
   <a href="/what-is-first">What is FIRST?</a>
@@ -25,7 +23,7 @@
     display: grid;
     place-items: center;
     grid-template-rows: 1fr;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     position: fixed;
     top: 0px;
     left: 0px;

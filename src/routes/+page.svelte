@@ -42,5 +42,6 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    backdrop-filter: blur(10px);
   }
 </style>
