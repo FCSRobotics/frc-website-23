@@ -42,6 +42,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    backdrop-filter: blur(10px);
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
   }
 </style>
