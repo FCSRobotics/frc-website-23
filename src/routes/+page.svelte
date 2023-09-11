@@ -2,8 +2,10 @@
   <title>Earthquakers 9094</title>
 </svelte:head>
 
-<h1>Earthquakers 9094</h1>
-<div role="doc-subtitle">Subheading</div>
+<header>
+  <h1>Earthquakers 9094</h1>
+  <div role="doc-subtitle">Roboticts team of Friend Central School</div>
+</header>
 <p>
   The Earthquakers, established in the fall of 2022, are the robotics team
   representing Friends' Central School. Friends' Central School is a Quaker,
@@ -21,5 +23,18 @@
   }
   [role="doc-subtitle"] {
     color: #c2c2c2;
+    font-size: 2rem;
+  }
+
+  header {
+    width: 100%;
+    display: grid;
+    place-items: center;
+    text-align: center;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    background: url("/meeting.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
   }
 </style>
