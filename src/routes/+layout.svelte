@@ -25,7 +25,7 @@
     display: grid;
     place-items: center;
     grid-template-rows: 1fr;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     position: fixed;
     top: 0px;
     left: 0px;
