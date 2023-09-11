@@ -26,6 +26,10 @@
     font-size: 2rem;
   }
 
+  p {
+    font-size: 1.2em;
+  }
+
   header {
     color: white;
     width: 100%;
