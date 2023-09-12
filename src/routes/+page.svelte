@@ -3,7 +3,6 @@
 </svelte:head>
 
 <header>
-  <div id="blur" />
   <h1>Earthquakers 9094</h1>
   <div role="doc-subtitle">Robotics team of Friend Central School</div>
 </header>
@@ -43,9 +42,11 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
   }
 
-  #blur {
+  /* #blur {
     margin: 0px;
     position: relative;
     top: 0px;
@@ -55,5 +56,5 @@
 
     backdrop-filter: blur(8px);
     -webkit-backdrop-filter: blur(8px);
-  }
+  } */
 </style>
