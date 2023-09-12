@@ -21,7 +21,7 @@
 
 <style>
   h1 {
-    margin-bottom: 0px;
+    margin: 0px;
   }
   [role="doc-subtitle"] {
     /* color: #c2c2c2; */
@@ -57,5 +57,7 @@
 
     backdrop-filter: blur(8px);
     -webkit-backdrop-filter: blur(8px);
+
+    padding: 5rem;
   }
 </style>
