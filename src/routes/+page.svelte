@@ -43,7 +43,7 @@
     background: url("/hero.png");
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: bottom;
     /* filter: blur(8px);
     -webkit-filter: blur(8px); */
   }
