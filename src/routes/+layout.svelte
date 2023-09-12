@@ -1,6 +1,5 @@
 <nav>
   <a href="/">Home</a><a href="/past-robots">Past robots</a>
-  <a href="/contact">Follow us</a>
   <a href="/our-community">Our Community</a>
   <a href="/what-is-first">What is FIRST?</a>
 </nav>
@@ -8,6 +7,18 @@
 <main>
   <slot />
 </main>
+
+<footer>
+  <h1>Social Media</h1>
+  <div id="social-icons">
+    <a target="_blank" href="https://www.instagram.com/earthquakers9094/"
+      ><img src="/instagram.png" alt="instagram" /></a
+    >
+    <a target="_blank" href="https://www.youtube.com/@EarthquakersRobotics9094"
+      ><img src="/youtube.png" alt="youtube" /></a
+    >
+  </div>
+</footer>
 
 <link rel="stylesheet" href="/global.css" />
 
@@ -23,7 +34,7 @@
     display: grid;
     place-items: center;
     grid-template-rows: 1fr;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     position: fixed;
     top: 0px;
     left: 0px;
