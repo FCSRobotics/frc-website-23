@@ -46,6 +46,11 @@
     -webkit-filter: blur(8px);
   }
 
+  header * {
+    filter: blur(0px);
+    -webkit-filter: blur(0px);
+  }
+
   /* #blur {
     margin: 0px;
     position: relative;
