@@ -3,9 +3,10 @@
 </svelte:head>
 
 <header>
-  <div id="blur" />
-  <h1>Earthquakers 9094</h1>
-  <div role="doc-subtitle">Robotics team of Friend Central School</div>
+  <div id="blur">
+    <h1>Earthquakers 9094</h1>
+    <div role="doc-subtitle">Robotics team of Friend Central School</div>
+  </div>
 </header>
 <p>
   The Earthquakers, established in the fall of 2022, are the robotics team
@@ -48,7 +49,6 @@
   }
 
   #blur {
-    margin: 0px;
     position: relative;
     top: 0px;
     left: 0px;
