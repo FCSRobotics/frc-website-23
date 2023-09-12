@@ -64,4 +64,33 @@
   nav > a#selected {
     background-color: var(--accent);
   }
+
+  footer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--accent);
+    padding-bottom: 7rem;
+  }
+
+  #social-icons {
+    width: 100%;
+    display: grid;
+    place-items: center;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  #social-icons > a {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  a > img {
+    width: 20%;
+    margin: auto;
+  }
 </style>
