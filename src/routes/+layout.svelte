@@ -31,7 +31,7 @@
   main {
     margin: 0px;
     margin-top: 2%;
-    padding: 2rem;
+    padding-top: 2rem;
     text-align: center;
   }
   html {
