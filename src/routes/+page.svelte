@@ -35,8 +35,7 @@
   header {
     color: white;
     width: 100%;
-    display: grid;
-    place-items: center;
+
     text-align: center;
     padding-top: 10rem;
     padding-bottom: 10rem;
