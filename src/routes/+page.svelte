@@ -55,8 +55,8 @@
     width: 100%;
     height: 100%;
 
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(8px) brightness(60%);
+    -webkit-backdrop-filter: blur(8px) brightness(60%);
 
     padding-top: 5rem;
     padding-bottom: 5rem;
