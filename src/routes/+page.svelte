@@ -40,7 +40,7 @@
     text-align: center;
     padding-top: 10rem;
     padding-bottom: 10rem;
-    background: url("/hero.jpg");
+    background: url("/hero.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
