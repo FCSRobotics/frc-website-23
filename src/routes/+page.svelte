@@ -58,6 +58,7 @@
     backdrop-filter: blur(8px);
     -webkit-backdrop-filter: blur(8px);
 
-    padding: 5rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
   }
 </style>
