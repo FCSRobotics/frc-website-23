@@ -46,7 +46,7 @@
     -webkit-filter: blur(8px);
   }
 
-  header * {
+  header > * {
     filter: blur(0px);
     -webkit-filter: blur(0px);
   }
