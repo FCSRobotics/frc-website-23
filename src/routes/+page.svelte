@@ -43,8 +43,8 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    filter: blur(8px);
-    -webkit-filter: blur(8px);
+    /* filter: blur(8px);
+    -webkit-filter: blur(8px); */
   }
 
   #blur {
