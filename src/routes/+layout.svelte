@@ -29,6 +29,7 @@
     left: 0px;
   }
   main {
+    margin: 0px;
     margin-top: 2%;
     padding: 2rem;
     text-align: center;
