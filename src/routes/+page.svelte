@@ -4,7 +4,8 @@
 
 <header>
   <div id="blur">
-    <h1>Earthquakers 9094</h1>
+    <img src="/logo.png" alt="Earthquakers 9094" />
+    <!-- <h1>Earthquakers 9094</h1> -->
     <div role="doc-subtitle">Robotics team of Friend Central School</div>
   </div>
 </header>
