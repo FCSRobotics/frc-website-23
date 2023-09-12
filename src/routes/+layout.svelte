@@ -8,7 +8,7 @@
   <slot />
 </main>
 
-<footer>
+<!-- <footer>
   <h1>Social Media</h1>
   <div id="social-icons">
     <a target="_blank" href="https://www.instagram.com/earthquakers9094/"
@@ -18,7 +18,7 @@
       ><img src="/youtube.png" alt="youtube" /></a
     >
   </div>
-</footer>
+</footer> -->
 
 <link rel="stylesheet" href="/global.css" />
 
