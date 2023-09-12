@@ -31,6 +31,7 @@
   main {
     margin: 0px;
     margin-top: 2%;
+    margin-bottom: 10rem;
     text-align: center;
   }
   html {
