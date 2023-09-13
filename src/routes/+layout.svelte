@@ -46,6 +46,7 @@
     margin-bottom: 10rem;
     text-align: center;
   }
+
   html {
     background-color: var(--background);
   }
@@ -77,7 +78,7 @@
   }
 
   #social-icons {
-    width: 100%;
+    width: 40%;
     display: grid;
     place-items: center;
     grid-template-columns: 1fr 1fr;
@@ -91,7 +92,7 @@
   }
 
   a > img {
-    width: 20%;
+    width: 50%;
     margin: auto;
   }
 </style>

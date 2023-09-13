@@ -30,7 +30,9 @@
   }
 
   p {
-    font-size: 1.2em;
+    font-size: 1.3rem;
+    width: 60%;
+    margin: auto;
   }
 
   header {
@@ -46,6 +48,7 @@
     background-position: center 75%;
     /* filter: blur(8px);
     -webkit-filter: blur(8px); */
+    margin-bottom: 5vh;
   }
 
   #blur {
@@ -60,6 +63,5 @@
     -webkit-backdrop-filter: blur(8px) brightness(60%);
 
     padding-top: 5rem;
-    padding-bottom: 5rem;
   }
 </style>
