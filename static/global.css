@@ -1,34 +1,21 @@
-@import url("https://fonts.googleapis.com/css2?family=Dosis:wght@300;500;700&display=swap");
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200;400;600;800&display=swap');
+
 :root {
-	--text: black;
-	--background: #fefcfb;
-	--primary: #1d3e54;
-	--secondary: #dbceee;
-	--accent: #3d84b3;
+	--background: #e3defc;
+	--primary: #5641d0;
+	--accent: #3514eb;	
 }
 
-html,
-body,
-main {
+html {
+	background-color: var(--background);
+	font-family: 'Noto Sans', sans-serif;
+	
+}
+
+body, html {
 	margin: 0px;
 	padding: 0px;
 	height: 100%;
-	font-family: "Dosis", sans-serif;
-}
-
-h1 {
-	font-size: 3em;
-}
-
-
-
-section,
-.section {
-	background-color: var(--accent);
-	padding: 3rem;
-	border-radius: 20px;
-	box-shadow: 0px 7px 29px 13px rgba(153, 153, 153, 0.67);
-	-webkit-box-shadow: 0px 7px 29px 13px rgba(153, 153, 153, 0.67);
-	-moz-box-shadow: 0px 7px 29px 13px rgba(153, 153, 153, 0.67);
-	color: white;
+	width: 100%;
 }
