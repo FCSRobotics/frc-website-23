@@ -21,7 +21,7 @@
   }
 
   #fcs-logo {
-    width: 20vw;
+    width: 15vw;
   }
 
   header {
