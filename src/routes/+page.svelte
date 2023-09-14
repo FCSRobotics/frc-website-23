@@ -2,6 +2,9 @@
   <div id="headings">
     <img id="logo" src="/logo-high.png" alt="Earthquakers 9094" />
     <h2>Friends' Central School Robotics</h2>
+    <a id="fcs-link" target="_blank" href="https://www.friendscentral.org/"
+      ><img id="fcs-logo" src="/fcs.svg" alt="FCS" /></a
+    >
   </div>
   <img src="" alt="" />
 </header>
@@ -12,8 +15,18 @@
     height: auto;
   }
 
+  #fcs-link {
+    position: absolute;
+    bottom: 2vh;
+    left: 2vh;
+  }
+
+  #fcs-logo {
+    width: 20vw;
+  }
+
   header {
-    background-image: url("/team.jpeg");
+    background-image: url("/first.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center 70%;
@@ -46,6 +59,10 @@
       content: url("/logo-vertical.png");
       height: 50vh;
       width: auto;
+    }
+
+    #fcs-link {
+      display: none;
     }
   }
 </style>
