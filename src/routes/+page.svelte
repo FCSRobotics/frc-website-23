@@ -2,11 +2,10 @@
   <div id="headings">
     <img id="logo" src="/logo-high.png" alt="Earthquakers 9094" />
     <h2>Friends' Central School Robotics</h2>
-    <a id="fcs-link" target="_blank" href="https://www.friendscentral.org/"
-      ><img id="fcs-logo" src="/fcs.svg" alt="FCS" /></a
-    >
   </div>
-  <img src="" alt="" />
+  <a id="fcs-link" target="_blank" href="https://www.friendscentral.org/"
+    ><img id="fcs-logo" src="/fcs.svg" alt="FCS" /></a
+  >
 </header>
 
 <style>
