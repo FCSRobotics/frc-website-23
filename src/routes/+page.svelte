@@ -38,7 +38,7 @@
     width: 60%;
     padding: 50px;
     border-radius: 50px;
-    backdrop-filter: blur(8px) brightness(50%);
+    backdrop-filter: blur(3px) brightness(50%);
   }
 
   @media (max-width: 600px) {
