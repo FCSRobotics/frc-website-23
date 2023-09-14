@@ -53,6 +53,12 @@
     backdrop-filter: blur(3px) brightness(50%);
   }
 
+  @media (max-width: 900px) {
+    #fcs-link {
+      width: 10vw;
+    }
+  }
+
   @media (max-width: 600px) {
     #logo {
       content: url("/logo-vertical.png");
