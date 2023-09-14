@@ -1,21 +1,21 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200;400;600;800&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200;400;600;800&display=swap");
 
 :root {
 	--background: #e3defc;
 	--primary: #5641d0;
-	--accent: #3514eb;	
+	--accent: #3514eb;
 }
 
 html {
 	background-color: var(--background);
-	font-family: 'Noto Sans', sans-serif;
-	
+	font-family: "Noto Sans", sans-serif;
 }
 
-body, html {
+body,
+html {
 	margin: 0px;
 	padding: 0px;
 	height: 100%;
 	width: 100%;
+	overflow-x: hidden;
 }
