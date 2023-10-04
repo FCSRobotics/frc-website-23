@@ -3,9 +3,6 @@
     <img id="logo" src="/logo-high.png" alt="Earthquakers 9094" />
     <h2>Friends' Central School Robotics</h2>
   </div>
-  <a id="fcs-link" target="_blank" href="https://www.friendscentral.org/"
-    ><img id="fcs-logo" src="/fcs.svg" alt="FCS" /></a
-  >
 </header>
 
 <style>
@@ -14,21 +11,13 @@
     height: auto;
   }
 
-  #fcs-link {
-    position: absolute;
-    bottom: 2vh;
-    left: 2vh;
-  }
-
-  #fcs-logo {
-    width: 15vw;
-  }
-
   header {
     background-image: url("/first.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center 70%;
+    padding-top: 50px;
+    padding-bottom: 50px;
     height: 100%;
     display: flex;
     flex-direction: column;
@@ -48,9 +37,10 @@
     justify-content: center;
     flex-direction: column;
     width: 60%;
+    height: 100%;
     padding: 50px;
     border-radius: 50px;
-    backdrop-filter: blur(3px) brightness(50%);
+    /* backdrop-filter: blur(0px) brightness(50%); */
   }
 
   @media (max-width: 900px) {
