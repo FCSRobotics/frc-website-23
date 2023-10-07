@@ -41,7 +41,9 @@
       that science brings is just as important as building the robot itself.
     </p>
   </div>
-  <img src="/FIRST.png" alt="FIRST logo" />
+  <div id="vertical-center">
+    <img src="/FIRST.png" alt="FIRST logo" />
+  </div>
 </div>
 
 <style>
@@ -50,9 +52,8 @@
   }
 
   #content {
-    display: grid;
-    grid-template-columns: 5fr 1fr;
-    grid-template-rows: 1fr;
+    display: flex;
+    flex-direction: row;
   }
 
   #text {
@@ -60,9 +61,16 @@
     align-items: center;
     justify-content: flex-start;
     flex-direction: column;
-    width: 100%;
+    width: 50%;
   }
 
   img {
+    width: 100%;
+  }
+
+  #vertical-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 </style>
