@@ -1,40 +1,37 @@
-<script>
-	import Spacer from "$lib/Spacer.svelte";
-</script>
-
-<h1>Mentors!</h1>
-<div class="team-grid">
-	<img src="/people/mscho.jpg" alt="Mr Schoifet" />
+<div id="content">
+	<h1>About</h1>
+	<h2>Earthquakers Mission</h2>
+	<p>
+		The Earthquaker’s strive to integrate FIRST’s mission of building future
+		leaders in science and technology with Friends’ Central School’s mission to
+		create students who “aim higher” and “go further”. Guided by the school’s
+		Quaker values of peace, equality, integrity, and community, we create a
+		collaborative environment where all students voices, no matter their
+		background, are represented in our robotics community. The Earthquakers aim
+		to create confident, knowledgeable, and compassionate young adults, who are
+		commited to giving back to the community around them through
+	</p>
+	<h2>About the Center for Innovation and Design</h2>
+	<p>
+		Envisioned by our current head of school Beth Johnson, The Center for
+		Innovation and Design (CID) is an exciting architectural project that will
+		transform the Rex Gymnasium on Friends’ Central School’s upper campus into a
+		state-of-the-art makerspace. The first phase of the CID began in the fall of
+		2022 and the final construction of the CID will be completed by the start of
+		the 2024-25 school year. The Earthquakers were created by a group of
+		enthusiastic students and mentors as part of the mission of the CID to
+		promote design thinking, incorporate advanced technology, and integrate
+		hands-on making into the Friends’ Central curriculum so that we can remain a
+		leader in 21st century education.
+	</p>
 </div>
-<h1>Students!</h1>
-<div class="team-grid">
-	<img src="/people/jack.png" alt="Jack" />
-	<img src="/people/zubin.jpg" alt="Zubin" />
-	<img src="/people/alex.jpg" alt="Alex" />
-	<img src="/people/aaron.jpg" alt="Aaron" />
-	<img src="/people/andrew.jpg" alt="Andrew" />
-	<img src="/people/julia.jpg" alt="Julia" />
-	<img src="/people/landon.jpg" alt="Landon" />
-	<img src="/people/charlie.jpg" alt="Charlie" />
-	<img src="/people/eli.jpg" alt="Eli" />
-	<img src="/people/parth.jpg" alt="Parth" />
-</div>
-<Spacer />
 
 <style>
-	.team-grid {
-		display: grid;
-		grid-template-columns: 1fr 1fr 1fr 1fr;
-		width: 80%;
+	#content {
+		width: 60%;
+		height: 100%;
 		margin: auto;
-		gap: 4vw;
-		justify-items: center;
-		align-items: center;
 	}
 
-	img {
-		width: 100%;
-		height: 100%;
-		border-radius: 30px;
-	}
+    @media (max-width: 1000px) {
 </style>
