@@ -1,7 +1,8 @@
-<h1>Sponsors!</h1>
+<h1>Sponsors</h1>
 <h2>
-  The Earthquakers would like to thank all our sponsors for their generous
-  support.
+  The Earthquakers would like to thank all of our amazing sponsors for their generous support. 
+  Without you, our success would not be possible. 
+
 </h2>
 <div class="sponsors-grid">
   <img src="/fcs.png" alt="FCS" />

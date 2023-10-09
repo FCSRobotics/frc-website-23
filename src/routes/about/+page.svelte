@@ -2,11 +2,11 @@
 	import Spacer from "$lib/Spacer.svelte";
 </script>
 
-<h1>Mentors!</h1>
+<h1>Mentors</h1>
 <div class="team-grid">
 	<img src="/people/mscho.jpg" alt="Mr Schoifet" />
 </div>
-<h1>Students!</h1>
+<h1>Students</h1>
 <div class="team-grid">
 	<img src="/people/jack.png" alt="Jack" />
 	<img src="/people/zubin.jpg" alt="Zubin" />
