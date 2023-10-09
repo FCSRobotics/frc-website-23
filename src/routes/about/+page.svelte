@@ -32,6 +32,4 @@
 		height: 100%;
 		margin: auto;
 	}
-
-    @media (max-width: 1000px) {
 </style>
