@@ -6,11 +6,10 @@
 <div id="matts-white-box">
 	<p>
 		Welcome to the homepage of The Earthquakers #9094 FIRST® Robotics
-		Competition Team. We are based out of Friends’ Central School’s Center in
-		Wynnewood, Pennsylvania. Started in 2022 in the school’s newly constructed
-		Center for Innovation and Design makerspace, we aim to promote the school’s
-		mission of “Going Further” through technology education and STEM outreach.
-	</p>
+		Competition Team. We are based out of Friends’ Central School in
+		Wynnewood, Pennsylvania. Started in 2022 as part of our newly constructed
+		Center for Innovation and Design makerspace, we are committed to the school's mission
+		of “Going Further” by creating future STEM leaders through competitive robotics. 
 	<div id="logos">
 		<a target="_blank" href="https://www.friendscentral.org/"
 			><img src="/fcs.png" alt="FCS" /></a
