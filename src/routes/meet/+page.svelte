@@ -3,14 +3,14 @@
 	import Spacer from "$lib/Spacer.svelte";
 </script>
 
-<h1>Mentors!</h1>
+<h1>Mentors</h1>
 <div class="team-grid">
 	<Person src="/people/mscho.jpg" name="Matt Schoifet" alt="Mr Schoifet" />
 	<Person src="/people/akash.jpeg" name="Akash" alt="Akash" />
 	<Person src="/people/ben.jpeg" name="Ben" alt="Ben" />
 	<Person src="/people/jose.webp" name="Jose" alt="Jose" />
 </div>
-<h1>Students!</h1>
+<h1>Students</h1>
 <div class="team-grid">
 	<Person src="/people/paco.jpg" alt="Paco" bio="I play piano." name="Paco" />
 	<Person src="/people/jackw.jpg" name="Jack" alt="Jack" />
