@@ -9,7 +9,7 @@
     collaborative environment where all students voices, no matter their
     background, are represented in our robotics community. The Earthquakers aim
     to create confident, knowledgeable, and compassionate young adults, who are
-    commited to giving back to the community around them through
+    commited to giving back to the community around them through science. 
   </p>
   <div id="cid-text">
     <h2>About the Center for Innovation and Design</h2>
@@ -33,5 +33,11 @@
     width: 60%;
     height: 100%;
     margin: auto;
+  }
+
+  #cid-text {
+    width: 60%;
+    height: 100%;
+    margin: left;
   }
 </style>
