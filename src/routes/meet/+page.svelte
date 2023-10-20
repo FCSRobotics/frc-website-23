@@ -23,7 +23,12 @@
   />
   <Person src="/people/charlie.jpg" name="Charlie" alt="Charlie" />
   <Person src="/people/oliver.jpg" name="Oliver" alt="Oliver" />
-  <Person src="/people/julia.jpg" name="Julia" alt="Julia" />
+  <Person
+    src="/people/julia.jpg"
+    bio="I build robots and rock on!"
+    name="Julia"
+    alt="Julia"
+  />
   <Person src="/people/jordanc.jpg" name="Jordan" alt="Jordan" />
   <Person
     src="/people/jack.png"
@@ -42,7 +47,12 @@
 
   <Person src="/people/alex.jpg" name="Alex" alt="Alex" />
   <Person src="/people/aaron.jpg" name="Aaron" alt="Aaron" />
-  <Person src="/people/andrew.jpg" name="Andrew" alt="Andrew" />
+  <Person
+    src="/people/andrew.jpg"
+    bio="I have become Bumper Boy, destroyer of MK4I Swerve modules."
+    name="Andrew"
+    alt="Andrew"
+  />
 
   <Person
     src="/people/landon.jpg"
@@ -52,6 +62,12 @@
   />
 
   <Person src="/people/parth.jpg" name="Parth" alt="Parth" />
+  <Person
+    src="/people/justin.jpg"
+    name="Ziqin"
+    bio="I will launch the next industrial revolution!"
+    alt="Ziqin"
+  />
 </div>
 <Spacer />
 
