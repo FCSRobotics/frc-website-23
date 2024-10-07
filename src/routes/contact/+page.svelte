@@ -4,7 +4,7 @@
 
 <div id="content">
 	<a id="mscho" href="mailto: mschoifet@friendscentral.org">
-		<img src="/logo-vertical.png" alt="Earthquakers" />
+		<img src="/Logo_Final_Nowords.png" alt="Earthquakers" />
 		<div id="text">
 			<h3>Matt Schoifet</h3>
 			<p>Head mentor</p>

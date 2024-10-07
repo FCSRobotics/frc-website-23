@@ -1,6 +1,6 @@
 <div id="content">
-	<div id="text">
-		<h2>What is FIRST?</h2>
+	<div class="text">
+		<h1 id = "title" > About FIRST</h1>
 		<p>
 			FIRST® is a global robotics organization which prepares students to become
 			future leaders in science and technology. The acronym FIRST stands for
@@ -22,30 +22,36 @@
 			programs in addition to building robots. Promoting the joy and excitement
 			that science brings is just as important as building the robot itself.
 			<a
-			href="https://www.firstinspires.org/">Click here to read more.</a
+			href="https://www.firstinspires.org/">Click here to learn more about the FIRST organization.</a
 		>
 		</p>
-		<h2>What is FIRST Robotics Competition?</h2>
+	</div>
+	<div class = "vertical-center">
+		<img src="/FIRST.png" alt="FIRST logo" />
+	</div>
+</div>
+<div id="content">
+	<div class="text">
+		<h1 id = "title" > About FIRST Robotics Competition</h1>
 		<p>
-			FIRST Robotics Competition (FRC) is the high school level competition
-			which the Earthquakers compete in. It is also the oldest and most
-			technologically advanced competition. Teams spend about eight weeks from
-			January to February, building and programming a robot that can weigh about
-			125 lbs and be almost as tall as a person. Along the way students
-			collaborate with mentors to learn 3D design and CAD skills, programming,
-			and machining. The Earthquakers compete in the FIRST Midatlantic District
-			(FMA) and attend two regional competitions per year along with the
-			district championship in April if we qualify. <a
-				href="https://www.firstinspires.org/robotics/frc"
-				>Click here to learn more about FIRST Robotics Competition.</a
-			>
+			FIRST Robotics Competition (FRC) is a three-month long robotics challenge for high school students.
+			This competition is the oldest and most technologically complex FIRST program. Teams 
+			spend January and February building and programming a robot that can weigh close to
+			150 lbs and be almost as tall as a person. The robot must complete various placement, climbing, or 
+			shooting tasks that vary from year to year. During build season, students collaborate with 
+			mentors to learn 3D computer design, programming, and machining. The Earthquakers compete 
+			in the FIRST Mid-Atlantic District (FMA) and attend two regional competitions per year along
+			with the district championship in April if we qualify. 
+			<a href="https://www.firstinspires.org/robotics/frc"
+				>Click here to learn more about FIRST Robotics Competition.</a>
 		</p>
 	</div>
-	<div id="vertical-center">
-		<img src="/FIRST.png" alt="FIRST logo" />
+	<div class = "vertical-center">
 		<img src="/FRC.jpeg" alt="FIRST Robotics logo" />
 	</div>
 </div>
+<br>
+<br>
 
 <style>
 	p {
@@ -58,9 +64,14 @@
 		padding: 2vw;
 	}
 
-	#text {
+	#title{
+		text-align: center; 
+	}
+
+	.text {
 		display: flex;
-		align-items: center;
+		text-align: left;
+		align-items: left;
 		justify-content: flex-start;
 		flex-direction: column;
 		width: 100%;
@@ -70,12 +81,13 @@
 		width: 60%;
 	}
 
-	#vertical-center {
+	.vertical-center {
 		display: flex;
 		align-items: center;
 		justify-content: center;
 		width: 60%;
 	}
+
 
 	@media (max-width: 1000px) {
 		#vertical-center {

@@ -12,20 +12,20 @@
 </div>
 <h1>Students</h1>
 <div class="team-grid">
-  <Person src="/people/paco.jpg" alt="Paco" bio="I play piano." name="Paco" />
+  <Person src="/people/paco.jpg" alt="Paco" name="Paco" />
   <Person src="/people/jackw.jpg" name="Jack" alt="Jack" />
   <Person src="/people/rishi.jpg" name="Rishi" alt="Rishi" />
   <Person
     src="/people/zubin.jpg"
     name="Zubin"
-    bio="I like woodworking, video games (despite my lack of skill), cooking, and most of all, I love planes. I am a total plane nerd."
+    
     alt="Zubin"
   />
   <Person src="/people/charlie.jpg" name="Charlie" alt="Charlie" />
   <Person src="/people/oliver.jpg" name="Oliver" alt="Oliver" />
   <Person
     src="/people/julia.jpg"
-    bio="I build robots and rock on!"
+    
     name="Julia"
     alt="Julia"
   />
@@ -33,14 +33,14 @@
   <Person
     src="/people/jack.png"
     name="Jack"
-    bio="Captain by day, masked vigilante by night"
+  
     alt="Jack"
   />
   <Person src="/people/nate.jpg" name="Nate" alt="Nate" />
   <Person
     src="/people/eli.jpg"
     name="Eli"
-    bio="Rock Climb Ooga Boga, Large Axe, Scary Death Robot "
+    
     alt="Eli"
   />
   <Person src="/people/jordan.jpg" name="Jordan" alt="Jordan" />
@@ -49,14 +49,14 @@
   <Person src="/people/aaron.jpg" name="Aaron" alt="Aaron" />
   <Person
     src="/people/andrew.jpg"
-    bio="I have become Bumper Boy, destroyer of MK4I Swerve modules."
+    
     name="Andrew"
     alt="Andrew"
   />
 
   <Person
     src="/people/landon.jpg"
-    bio="I climb rocks."
+   
     name="Landon"
     alt="Landon"
   />
@@ -65,7 +65,7 @@
   <Person
     src="/people/justin.jpg"
     name="Ziqin"
-    bio="I will launch the next industrial revolution!"
+   
     alt="Ziqin"
   />
 </div>

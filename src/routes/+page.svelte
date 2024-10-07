@@ -1,15 +1,15 @@
 <header>
 	<div id="headings">
-		<img id="logo" src="/logo-high.png" alt="Earthquakers 9094" />
+		<img id="logo" src="/Logo_Final_Nowords.png" alt="Earthquakers 9094" />
 	</div>
 </header>
 <div id="matts-white-box">
 	<p>
-		Welcome to the homepage of The Earthquakers #9094 FIRST® Robotics
-		Competition Team. We are based out of Friends’ Central School in
-		Wynnewood, Pennsylvania. Started in 2022 as part of our newly constructed
-		Center for Innovation and Design makerspace, we are committed to the school's mission
-		of “Going Further” by creating future STEM leaders through competitive robotics. 
+		Welcome to the homepage of The Earthquakers #9094. We are a FIRST® 
+		Robotics Competition Team based out of Friends’ Central School in
+		Wynnewood, Pennsylvania. Founded in 2022, we are committed to the school's mission
+		of “Going Further” by creating future leaders in STEM through robotics education, 
+		outreach, and innovation. 
 	<div id="logos">
 		<a target="_blank" href="https://www.friendscentral.org/"
 			><img src="/fcs.png" alt="FCS" /></a
@@ -24,7 +24,6 @@
 <style>
 	#matts-white-box {
 		background-color: white;
-		padding: 5vw;
 		display: flex;
 		align-items: center;
 		justify-content: center;
@@ -36,7 +35,7 @@
 		align-items: center;
 		justify-content: center;
 		flex-direction: row;
-		width: 60%;
+		width: 70%;
 		gap: 5vw;
 	}
 	#logos > a {
@@ -54,19 +53,21 @@
 		width: 70%;
 		font-size: 1.75vw;
 	}
+
+	/* this formats logo */
 	#logo {
-		width: max(60vw, 80%);
+		width: 80%;
 		height: auto;
 	}
 
 	header {
-		background-image: url("/banner.webp");
+		background-image: url(/AYU_8063.webp);
 		background-size: cover;
 		background-repeat: no-repeat;
-		background-position: center 70%;
-		padding-top: 20px;
-		padding-bottom: 20px;
-		height: 100vh;
+		background-position: center 45%;
+		padding-top: 2px;
+		padding-bottom: 5px;
+		height: 90vh;
 		display: flex;
 		flex-direction: column;
 		align-items: center;
@@ -79,16 +80,17 @@
 		font-size: max(2vw, 1rem);
 	}
 
+		/* this formats the grey box */
 	#headings {
 		display: flex;
 		align-items: center;
 		justify-content: center;
 		flex-direction: column;
-		width: 60%;
-		height: min-content;
-		padding-top: 50px;
-		padding-bottom: 20px;
-		border-radius: 20px;
+		width: 38%;
+		height: 300px;
+		padding-top: 1px;
+		padding-bottom: 10px;
+		border-radius: 100px;
 		backdrop-filter: blur(0px) brightness(50%);
 	}
 

@@ -7,7 +7,7 @@
 	<div id="container">
 		<nav>
 			<a id="with-logo" href="/"
-				><img id="logo" src="/logo.png" alt="Earthquakers 9094" /></a
+				><img id="logo" src="/Untitled.png" alt="Earthquakers 9094" /></a
 			><a href="/first">What is FIRST?</a><a href="/about">About our team</a><a
 				href="/seasons">Past seasons</a
 			><a href="/sponsors">Sponsors</a><a href="/meet">Meet the team</a><a
@@ -90,8 +90,9 @@
 		text-align: center;
 	}
 	#logo {
-		width: 100%;
+		width: 100%
 	}
+
 	nav > a {
 		color: white;
 		font-size: 1.3vw;

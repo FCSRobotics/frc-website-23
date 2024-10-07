@@ -13,7 +13,20 @@
 			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 			allowfullscreen
 		/>
-		<p>We did some robotics this season</p>
+		<p>Namazu was our 2023 robot for the game Charged Up. His objective was to place cones and cubes on a grid.</p>
+	</div>
+	<br>
+	<br>
+	<div class="season">
+		<h2>2024: Ruamoko</h2>
+		<iframe
+			src="https://www.youtube.com/embed/wysQTf0XY6I"
+			title="YouTube video player"
+			frameborder="0"
+			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+			allowfullscreen
+		/>
+		<p>Raumoko was our 2024 robot for the game Crescendo. His objective was to shoot oragne discs, called notes, into an amp. </p>
 	</div>
 </div>
 <Spacer />
