@@ -8,66 +8,33 @@
   <Person src="/people/mscho.jpg" name="Matt Schoifet" alt="Mr Schoifet" />
   <Person src="/people/akash.jpeg" name="Akash" alt="Akash" />
   <Person src="/people/ben.jpeg" name="Ben" alt="Ben" />
-  <Person src="/people/jose.webp" name="Jose" alt="Jose" />
+  <Person src="/people/mike.webp" name="Mike Dillon" alt="Mike Dillon" /> <!--add-->
 </div>
 <h1>Students</h1>
 <div class="team-grid">
-  <Person src="/people/paco.jpg" alt="Paco" name="Paco" />
-  <Person src="/people/jackw.jpg" name="Jack" alt="Jack" />
-  <Person src="/people/rishi.jpg" name="Rishi" alt="Rishi" />
-  <Person
-    src="/people/zubin.jpg"
-    name="Zubin"
-    
-    alt="Zubin"
-  />
-  <Person src="/people/charlie.jpg" name="Charlie" alt="Charlie" />
-  <Person src="/people/oliver.jpg" name="Oliver" alt="Oliver" />
-  <Person
-    src="/people/julia.jpg"
-    
-    name="Julia"
-    alt="Julia"
-  />
-  <Person src="/people/jordanc.jpg" name="Jordan" alt="Jordan" />
-  <Person
-    src="/people/jack.png"
-    name="Jack"
-  
-    alt="Jack"
-  />
-  <Person src="/people/nate.jpg" name="Nate" alt="Nate" />
-  <Person
-    src="/people/eli.jpg"
-    name="Eli"
-    
-    alt="Eli"
-  />
-  <Person src="/people/jordan.jpg" name="Jordan" alt="Jordan" />
+  <Person src="/people/ian.jpg" alt="Ian" name="Ian" /> <!--add-->
+  <Person src="/people/jackw.jpg" name="Jack" alt="Jack" /> <!--add-->
+  <Person src="/people/rishi.jpg" name="Ryan" alt="Ryan" /> <!--add-->
 
-  <Person src="/people/alex.jpg" name="Alex" alt="Alex" />
-  <Person src="/people/aaron.jpg" name="Aaron" alt="Aaron" />
-  <Person
-    src="/people/andrew.jpg"
-    
-    name="Andrew"
-    alt="Andrew"
-  />
+  <Person src="/people/charlie.jpg" name="Charlie" alt="Charlie" /> <!--add-->
+  <Person src="/people/oliver.jpg" name="Oliver" alt="Oliver" /> <!--add-->
+  <Person src="/people/julia.jpg" name="Julia" alt="Julia"/> <!--add-->
+  <Person src="/people/maxam.png" name="Maxam" alt="Maxam" /> 
 
-  <Person
-    src="/people/landon.jpg"
-   
-    name="Landon"
-    alt="Landon"
-  />
+  <Person src="/people/arda.jpg" name="Arda" alt="Arda" /> <!--add-->
+  <Person src="/people/clem.png" name="Clementine" alt="Clementine"/> <!--add-->
+  <Person src="/people/oona.jpg" name="Oona" alt="Oona" /> <!--add-->
+  <Person src="/people/elliot.jpg" name="Elliot" alt="Elliot"/> <!--add-->
 
-  <Person src="/people/parth.jpg" name="Parth" alt="Parth" />
-  <Person
-    src="/people/justin.jpg"
-    name="Ziqin"
-   
-    alt="Ziqin"
-  />
+  <Person src="/people/felix.jpg" name="Felix" alt="Felix" /> <!--add-->
+  <Person src="/people/zoya.jpg" name="Zoya" alt="Zoya" /> <!--add-->
+  <Person src="/people/sophie.jpg" name="Sophie" alt="Sophie" /> <!--add-->
+  <Person src="/people/asa.jpg" name="Asa" alt="ASa" /> <!--add-->
+
+  <Person src="/people/landon.jpg" name="Landon" alt="Landon" /> <!--add-->
+
+  <Person src="/people/lucy.jpg" name="Lucy" alt="Lucy" /> <!--add-->
+  <Person src="/people/peter.jpg" name="Peter" alt="Peter"/> <!--add-->
 </div>
 <Spacer />
 
