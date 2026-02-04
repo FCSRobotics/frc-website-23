@@ -1,4 +1,4 @@
-<div id="content">
+<div id="content"> <!--People's first impressions! Make better.-->
 	<div class="text">
       <h1 id = "title">The Earthquaker's Mission</h1>
       <p>
@@ -21,17 +21,19 @@
 </div>
 <div id="content">
 	<div class="text">
-		<h1 id = "title" > About the Audrie Garham Ulmer '37 Center for Innovation & Design'</h1>
+		<h1 id = "title" >Audrie Garham Ulmer '37 Center for Innovation & Design</h1>
 		<p>
-			Envisioned by our current head of school Beth Johnson, Audrie Gardham Ulmer
-			'37 Center for Innovation and Design (CID) is an exciting architectural project that 
-			transformed the Rex Gymnasium on Friends’ Central School’s upper campus into
-			a state-of-the-art engineering design center. The first phase of the CID began in the
-			fall of 2022 and the final construction of the CID was completed at the
-			the start of the 2024-25 school year. The Earthquakers were created by a
-			group of enthusiastic students and mentors as part of the school's vision to promote 
-			design thinking, the teaching of advanced technology, and
-			integration of project-based learning into the Friends’ Central curriculum so that they
+			The Audrie Gardham Ulmer '37 Center for Innovation and Design (CID) was 
+			an exciting architectural project envisioned by our current head of 
+			school Beth Johnson that transformed the Rex Gymnasium on Friends’ Central School’s 
+			upper campus into state-of-the-art engineering design center. 
+			It has two stories filled with 
+		</p>
+		<p>
+			The Earthquakers were created by a group of enthusiastic
+			students and mentors as part of the school's vision to promote 
+			design thinking, the teaching of advanced technology, and integration of 
+			project-based learning into the Friends’ Central curriculum so that they
 			can remain a leader in 21st century education.
 		</p>
 	</div>
