@@ -3,14 +3,26 @@
 	rel="stylesheet"
 	href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
 />
+
+
+
+
 <div id="main-thing">
 	<div id="container">
 		<nav>
 			<a id="with-logo" href="/"
 				><img id="logo" src="/Untitled.png" alt="Earthquakers 9094" /></a
-			><a href="/first">What is FIRST?</a><a href="/about">About our team</a><a
-				href="/seasons">Past seasons</a
-			><a href="/sponsors">Sponsors</a><a href="/meet">Meet the team</a><a
+			><a href="/first">What is FIRST?</a><a href="/about">About our team</a>
+			<div class="dropdown">
+				<button class="dropbtn">Past Seasons</button>
+				<div class="dropdown-content">
+				<a href="/seasons/2026">Current</a>
+				  <a href="/seasons/2025">2025</a>
+				  <a href="/seasons/2024">2024</a>
+				  <a href="/seasons/2023">2023</a>
+				</div>
+			  </div> 
+			<a href="/sponsors">Sponsors</a><a href="/meet">Meet the team</a><a
 				href="/contact">Contact us</a
 			>
 			<span id="spacer" />
@@ -107,8 +119,11 @@
 	}
 
 	nav > a:hover:not(:nth-child(1)) {
-		/* font-size: 2rem; */
-		scale: 1.5;
+		color: #DDDDEE;
+	}
+
+	nav > div:hover {
+		color: #DDDDEE;
 	}
 
 	#dropdown {
