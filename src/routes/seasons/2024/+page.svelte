@@ -4,7 +4,9 @@
 <link rel="stylesheet" href="/global.css" />
 
 
-<h1>2024: Crescendo</h1> <!--GIVE EACH OWN PAGE--> <!--add real videos-->
+<h1>2024: Crescendo</h1> 
+<img src="/crescendo-logo.png" alt="Crescendo logo">
+
 <div id="seasons-container">
 
 

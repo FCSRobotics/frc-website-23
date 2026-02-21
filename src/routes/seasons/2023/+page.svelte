@@ -4,7 +4,9 @@
 <link rel="stylesheet" href="/global.css" />
 
 
-<h1>2023: Charged Up</h1> <!--GIVE EACH OWN PAGE--> <!--add real videos-->
+<h1>2023: Charged Up</h1> 
+<img src="/chargedup-logo.jpg" alt="Crescendo logo">
+
 <div id="seasons-container">
 
 

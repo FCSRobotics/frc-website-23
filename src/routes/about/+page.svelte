@@ -38,11 +38,14 @@
 		</p>
 	</div>
 	<div class = "vertical-center">
-		<img src="/IMG_2940.jpg" alt="CID Center" />
+		<img src="/cid.jpg" alt="CID Center" />
 	</div>
 </div>
 
 <style>
+	@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200;400;600;800&display=swap");
+
+
 	p {
 		width: 100%;
 	}
@@ -55,6 +58,7 @@
 
 	#title{
 		text-align: center; 
+		font-family: "Noto Sans", sans-serif;
 	}
 
 	.text {

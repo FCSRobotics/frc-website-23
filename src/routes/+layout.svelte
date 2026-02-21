@@ -50,6 +50,8 @@
 </div>
 
 <style>
+	@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200;400;600;800&display=swap");
+
 	#main-thing {
 		width: 100%;
 		height: 100%;
@@ -58,6 +60,7 @@
 	}
 
 	nav {
+		font-family: "Noto Sans", serif;
 		background-color: var(--accent);
 		/* background: linear-gradient(0.25turn, var(--primary), var(--accent)); */
 		height: max(15vh, min-content);

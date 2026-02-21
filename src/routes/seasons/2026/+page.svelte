@@ -4,7 +4,9 @@
 <link rel="stylesheet" href="/global.css" />
 
 
-<h1>2026: Rebuilt</h1> <!--GIVE EACH OWN PAGE--> <!--add real videos-->
+<h1>2026: Rebuilt</h1>=
+<img src="/rebuilt-logo.jpg" alt="Rebuilt logo">
+
 <div id="seasons-container">
 
 
