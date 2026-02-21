@@ -28,6 +28,10 @@ html {
 	padding-left: 5vw;
 	padding-right: 5vw;
 	border-radius: 1vw;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: auto;
 }
 iframe {
 	width: 40vw;
@@ -61,6 +65,7 @@ iframe {
   .dropdown-content a {
 	color: black;
 	padding: 12px 16px;
+	font-size: 12px;
 	text-decoration: none;
 	display: block;
   }

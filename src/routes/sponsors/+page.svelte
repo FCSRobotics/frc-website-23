@@ -18,7 +18,7 @@
 	<h2>Interested in Sponsoring?</h2>
 	<p>
 		We really would love to feature your company's logo on our robot, website,
-		t-shirts, competition pit, or even give your company a shoutout at events.
+		t-shirts, competition pit, or even give your company a shoutout at events!
 		We attend roughly five regional competitions across Eastern Pennsylvania and
 		New Jersey throughout the year giving a chance for your company’s
 		information to be promoted to hundreds of families attending these events.

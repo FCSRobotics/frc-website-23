@@ -11,20 +11,17 @@
 
 
 	<div class="season">
-
-		<h2>Video</h2>
-		<iframe
-			src="https://www.youtube.com/watch?v=vXm6ep3X_aI"
-			title="YouTube video player"
-			frameborder="0"
-			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-			allowfullscreen
-		/>
-		<p>Raumoko was our 2024 robot for the game Crescendo. His objective was to shoot oragne discs, called notes, into an amp. </p>
+		<div class="video">
+			<p>Raumoko was our 2024 robot for the game Crescendo. His objective was to shoot oragne discs, called notes, into an amp. </p>
+			<h2>Video</h2>
+			<iframe
+				src="https://www.youtube.com/watch?v=vXm6ep3X_aI"
+				title="YouTube video player"
+				frameborder="0"
+				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+				allowfullscreen
+			/>
+		</div>
 	</div>
-	<br>
-	<br>
+
 </div>
-<Spacer />
-
-
