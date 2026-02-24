@@ -4,13 +4,16 @@
 <link rel="stylesheet" href="/global.css" />
 
 
-<h1>2026: Rebuilt</h1>=
+<h1>2026: Rebuilt</h1>
+<div class="text">
 <img src="/rebuilt-logo.jpg" alt="Rebuilt logo">
+<span>Our robot is unnamed for the 2026 season.</span>
+</div>
 
 <div id="seasons-container">
 
 
-	<div class="season">
+	<div class="video">
 
 		<h2>Video</h2>
 		<iframe
@@ -20,11 +23,14 @@
 			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 			allowfullscreen
 		/>
-		<p>Our robot is unnamed for the 2026 season.</p>
 	</div>
 	<br>
 	<br>
 </div>
+
+<style>
+
+</style>
 <Spacer />
 
 

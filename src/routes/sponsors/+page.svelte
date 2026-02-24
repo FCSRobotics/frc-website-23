@@ -4,15 +4,20 @@
 		The Earthquakers would like to thank all of our amazing sponsors for their
 		generous support. Without you, our success would not be possible.
 	</h3>
-	<div class="sponsors-grid">
+	<div class="sponsors-grid2">
 		<img src="/comcast.png" alt="Comcast" />
+		<img src="/Virtua.png" alt="Virtua" />
+
+	</div>
+	<div class="sponsors-grid">
+		<img src="/Ivy_Logo.png" alt="Ivy" />
 		<img src="/fcs.png" alt="FCS" />
-		<img src="/makerStock.webp" alt="Maker" />
+		<img src="sig-logo.jpg">
 	</div>
 
 	<div class="sponsors-grid2">
-		<img src="/Ivy_Logo.png" alt="Ivy" />
-		<img src="/Virtua.png" alt="Virtua" />
+		<img src="fonseca-logo.png">
+		<img src="/makerStock.webp" alt="Maker" />
 	</div>
 
 	<h2>Interested in Sponsoring?</h2>
@@ -44,7 +49,7 @@
 	.sponsors-grid2 {
 		display: grid;
 		grid-template-columns: 1fr 1fr;
-		column-gap: 30%;
+		column-gap: 20%;
 		width: 100%;
 
 		margin: auto;

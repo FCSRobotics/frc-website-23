@@ -10,7 +10,7 @@
 <div id="seasons-container">
 
 
-	<div class="season">
+	<div class="video">
 
 		<h2>Video</h2>
 		<iframe

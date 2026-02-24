@@ -105,7 +105,8 @@
 		text-align: center;
 	}
 	#logo {
-		width: 100%
+		width: 100%;
+		padding-left: 20px;
 	}
 
 	nav > a {

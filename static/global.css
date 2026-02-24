@@ -75,3 +75,14 @@ iframe {
   .dropdown:hover .dropdown-content {display: block;}
   
   .dropdown:hover .dropbtn {background-color: #2D3B7C;} 
+
+  
+  
+  .text {
+	display: flex;
+	align-items: center;
+	justify-content: left;
+	padding-left: 10px;
+	font-size: 30px;
+	font-weight: bold;
+}

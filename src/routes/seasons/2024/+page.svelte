@@ -10,7 +10,6 @@
 <div id="seasons-container">
 
 
-	<div class="season">
 		<div class="video">
 			<p>Raumoko was our 2024 robot for the game Crescendo. His objective was to shoot oragne discs, called notes, into an amp. </p>
 			<h2>Video</h2>
@@ -22,6 +21,5 @@
 				allowfullscreen
 			/>
 		</div>
-	</div>
 
 </div>
