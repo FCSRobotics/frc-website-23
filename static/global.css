@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200;400;600;800&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chocolate+Classical+Sans&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap');
 
 :root {
 	--background: #dfe3ec;
@@ -78,11 +80,26 @@ iframe {
 
   
   
-  .text {
+.text {
+	font-family: "Chocolate Classical Sans";
 	display: flex;
 	align-items: center;
 	justify-content: left;
-	padding-left: 10px;
-	font-size: 30px;
+	padding-left: 7.5%;
+	font-size: 25px;
 	font-weight: bold;
+	gap: 30px;
+	width: 80%;
+}
+
+.logo-image{
+	width: 400px;
+	height: 400px;
+	border-radius: 10%;
+}
+
+.general-image{
+	width: 600px;
+	height: 600px;
+	border-radius: 10%;
 }

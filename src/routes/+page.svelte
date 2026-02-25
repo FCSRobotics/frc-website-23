@@ -61,7 +61,7 @@
 	}
 
 	header {
-		background-image: url(/AYU_8063.webp);
+		background-image: url(/TitleImage.JPG);
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-position: center 45%;

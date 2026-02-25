@@ -5,10 +5,34 @@
 
 
 <h1>2023: Charged Up</h1> 
-<img src="/chargedup-logo.jpg" alt="Crescendo logo">
+
+<div class="text">
+	<img class="logo-image" src="/chargedup-logo.jpg" alt="Charged Up logo">
+	<p>2023 was our rookie year. Our robot was Namazu, named after a giant 
+		catfish from Japanese mythology that lived underground and caused earthquakes.
+		It's objective was to place cones and cubes on a grid.</p>
+</div>
+
+<h2>District Events:</h2>
+	<ul>Springside Chestnut Hill District Event: 24th place</ul>
+	<ul>Awards: Rookie All Star, District Event Finalist</ul>
+	<ul>Bensalem District Event: 13th place</ul>
+	<ul>Awards: Creativity Award, Highest Rookie Seed</ul>
+	<br>
+<h2>District Championship</h2>
+	<ul>Midatlantic District Championship: 31st place</ul>
+
+<br>
+
+<h2>Our Robot</h2>
+<img class="general-image" src="/Namazu2023.JPG" alt="2023's robot. It's colorful.">
+<p>Namazu</p>
+
+<br><br>
+
+
 
 <div id="seasons-container">
-
 
 	<div class="video">
 
@@ -20,10 +44,13 @@
 			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 			allowfullscreen
 		/>
-		<p>Namazu was our 2023 robot for the game Charged Up. His objective was to place cones and cubes on a grid.</p>
-	</div>
-	<br>
-	<br>
+	</div>  
 </div>
 <Spacer />
+
+<style>
+	h1{
+		font-size: 40px;
+	}
+</style>
 

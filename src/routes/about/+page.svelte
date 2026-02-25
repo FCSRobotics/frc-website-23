@@ -34,7 +34,9 @@
 			students and mentors as part of the school's vision to promote 
 			design thinking, the teaching of advanced technology, and integration of 
 			project-based learning into the Friends’ Central curriculum so that they
-			can remain a leader in 21st century education.
+			can remain a leader in 21st century education. Our rookie year was in 2023, 
+			meaning that the 2026 season will be our fourth. As a nod to our team name, all of 
+			our robots so far have been named after earthquake gods.
 		</p>
 	</div>
 	<div class = "vertical-center">
