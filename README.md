@@ -1,3 +1,3 @@
 Earthquakers 9094 website!
 
-In the process of being updated.
+Push to this repo to update the actual website.
