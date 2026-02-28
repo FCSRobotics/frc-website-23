@@ -4,7 +4,7 @@
       	<p>
           The Earthquaker’s integrate FIRST’s mission of building future
           leaders in science and technology with Friends’ Central School’s mission to
-          create students who “aim higher” and “go further”. Guided by our school's
+          create students who aim higher and go further. Guided by our school's
           Quaker values of peace, equality, integrity, and community, we strive to create a
           collaborative environment where all students voices, no matter their
           background, are represented in our robotics community. The Earthquakers 
@@ -20,12 +20,11 @@
 		meaning that the 2026 season will be our fourth. As a nod to our team name, all of 
 		our robots so far have been named after earthquake gods.
 		</p>
-		<a
-			href="https://www.friendscentral.org/">Click here to learn more about Friend's Central School.
-		</a>
+		<a href="https://www.friendscentral.org/">Click here to learn more about Friend's Central School.</a>
 	</div>
 	<div class = "vertical-center">
-		<img class="general-image" src="IMG_1581.jpg" alt="Team Pic" />
+		<img class="general-image" src="old-team-picture.jpg" alt="Team Pic" />
+		<img class="general-image" src="working-on-robot.jpeg" alt="Working on the robot" />
 	</div>
 </div>
 

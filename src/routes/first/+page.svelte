@@ -47,7 +47,7 @@
 		</p>
 	</div>
 	<div class = "vertical-center">
-		<img src="/FRC.jpeg" alt="FIRST Robotics logo" />
+		<img class="general-image" src="/FRC.jpeg" alt="FIRST Robotics logo" />
 	</div>
 </div>
 <br>
