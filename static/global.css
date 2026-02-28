@@ -111,3 +111,18 @@ iframe {
 	border-radius: 10%;
 }
 
+.paragraph-text {
+	display: flex;
+	text-align: left;
+	align-items: left;
+	justify-content: flex-start;
+	flex-direction: column;
+	width: 80%;
+	padding-left: 2.5%;
+}
+
+.vertical-center {
+	align-items: center;
+	width: 60%;
+	padding-top: 5%;
+}

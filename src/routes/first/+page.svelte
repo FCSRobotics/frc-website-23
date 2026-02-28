@@ -1,5 +1,5 @@
 <div id="content">
-	<div class="text">
+	<div class="paragraph-text">
 		<h1 id = "title" > About FIRST</h1>
 		<p>
 			FIRST® is a global robotics organization which prepares students to become
@@ -31,7 +31,7 @@
 	</div>
 </div>
 <div id="content">
-	<div class="text">
+	<div class="paragraph-text">
 		<h1 id = "title" > About FIRST Robotics Competition</h1>
 		<p>
 			FIRST Robotics Competition (FRC) is a three-month long robotics challenge for high school students.
@@ -68,14 +68,7 @@
 		text-align: center; 
 	}
 
-	.text {
-		display: flex;
-		text-align: left;
-		align-items: left;
-		justify-content: flex-start;
-		flex-direction: column;
-		width: 100%;
-	}
+
 
 	img {
 		width: 60%;
