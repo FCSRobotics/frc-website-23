@@ -1,8 +1,0 @@
-To make a new branch first:
-git checkout -b [branch-name]
-
-Steps:
-git init
-git add -A(all)
-git commit -m "[message]"
-git push -u origin [branch]
