@@ -1,6 +1,6 @@
-<div id="content"> <!--People's first impressions! Make better.-->
-	<div class="text">
-      <h1 id = "title">The Earthquaker's Mission</h1>
+<div id="content">
+	<div class="about-words">
+      <h2 id = "title">The Earthquaker's Mission</h2>
       <p>
           The Earthquaker’s integrate FIRST’s mission of building future
           leaders in science and technology with Friends’ Central School’s mission to
@@ -16,12 +16,17 @@
 		>
 	</div>
 	<div class = "vertical-center">
-		<img src="IMG_1581.jpg" alt="Team Pic" />
+		<img class="general-image" src="IMG_1581.jpg" alt="Team Pic" />
 	</div>
 </div>
+
+
 <div id="content">
-	<div class="text">
-		<h1 id = "title" >Audrie Garham Ulmer '37 Center for Innovation & Design</h1>
+	<div class = "vertical-center">
+		<img class="general-image" src="/cid.jpg" alt="CID Center" />
+	</div>
+	<div class="about-words">
+		<h2 id = "title" >Audrie Gardham Ulmer '37 Center for Innovation & Design</h2>
 		<p>
 			The Audrie Gardham Ulmer '37 Center for Innovation and Design (CID) was 
 			an exciting architectural project envisioned by our current head of 
@@ -29,6 +34,7 @@
 			upper campus into state-of-the-art engineering design center. 
 			It has two stories filled with 
 		</p>
+
 		<p>
 			The Earthquakers were created by a group of enthusiastic
 			students and mentors as part of the school's vision to promote 
@@ -38,9 +44,6 @@
 			meaning that the 2026 season will be our fourth. As a nod to our team name, all of 
 			our robots so far have been named after earthquake gods.
 		</p>
-	</div>
-	<div class = "vertical-center">
-		<img src="/cid.jpg" alt="CID Center" />
 	</div>
 </div>
 
@@ -63,13 +66,14 @@
 		font-family: "Noto Sans", sans-serif;
 	}
 
-	.text {
+	.about-words {
 		display: flex;
 		text-align: left;
 		align-items: left;
 		justify-content: flex-start;
 		flex-direction: column;
-		width: 100%;
+		width: 80%;
+		padding-left: 2.5%;
 	}
 
 	img {

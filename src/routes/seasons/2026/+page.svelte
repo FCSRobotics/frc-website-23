@@ -1,17 +1,23 @@
 <script> 
 	import Spacer from "$lib/Spacer.svelte";
 </script>
+
 <link rel="stylesheet" href="/global.css" />
 
 
-<h1>2026: Rebuilt</h1>
+
+
 
 <div class="text">
 	<img class="logo-image" src="/rebuilt-logo.jpg" alt="Rebuilt logo">
+	<div class="inner-text">
+	<h1 id="title">2026: Rebuilt</h1>
+
 	<span>The 2026 season, Rebuilt, is a shooting game. To play the game, we've made 
 	a robot that's short enough to go under the trenches with a hopper capacity of fifty 
 	fuel balls that can accurately shoot six balls a second. We are currently still choosing 
 	our robot name.</span>
+	</div>
 </div>
 
 <h2>District Events:</h2>

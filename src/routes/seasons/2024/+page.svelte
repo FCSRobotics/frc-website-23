@@ -3,13 +3,15 @@
 </script>
 <link rel="stylesheet" href="/global.css" />
 
-<h1>2024: Crescendo</h1> 
 
 <div class="text">
 	<img class="logo-image" src="/crescendo-logo.png" alt="Crescendo logo" style="width: 500px">
-	<p>Crescendo was the 2024 season, which was music themed. Our robot was Ruaumoko, named 
-		after the Maori god of earthquakesand volcanoes. His objective was to shoot orange 
-		discs, called notes, into an amp. </p>
+	<div class="inner-text">
+		<h1 id="title">2024: Crescendo</h1> 
+		<p>Crescendo was the 2024 season, which was music themed. Our robot was Ruaumoko, named 
+			after the Maori god of earthquakesand volcanoes. His objective was to shoot orange 
+			discs, called notes, into an amp. </p>
+	</div>
 </div>
 
 <h2>District Events:</h2>

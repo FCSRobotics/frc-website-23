@@ -4,13 +4,15 @@
 <link rel="stylesheet" href="/global.css" />
 
 
-<h1>2023: Charged Up</h1> 
 
 <div class="text">
 	<img class="logo-image" src="/chargedup-logo.jpg" alt="Charged Up logo">
-	<p>2023 was our rookie year. Our robot was Namazu, named after a giant 
-		catfish from Japanese mythology that lived underground and caused earthquakes.
-		It's objective was to place cones and cubes on a grid.</p>
+	<div class="inner-text">
+		<h1 id="title">2023: Charged Up</h1> 
+		<p>2023 was our rookie year. Our robot was Namazu, named after a giant 
+			catfish from Japanese mythology that lived underground and caused earthquakes.
+			It's objective was to place cones and cubes on a grid.</p>
+	</div>
 </div>
 
 <h2>District Events:</h2>
