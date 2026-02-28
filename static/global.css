@@ -81,7 +81,6 @@ iframe {
   
   
 .text {
-	font-family: "Chocolate Classical Sans";
 	display: flex;
 	align-items: center;
 	margin: auto;
@@ -97,7 +96,8 @@ iframe {
 #title{
 	font-size: 45px;
 	font-weight: bold;
-	font-family: "Roboto";
+	font-family: "Noto Sans", sans-serif;
+	text-align: center; 
 }
 
 .logo-image{
@@ -112,6 +112,7 @@ iframe {
 }
 
 .paragraph-text {
+	font-family: "Chocolate Classical Sans";
 	display: flex;
 	text-align: left;
 	align-items: left;

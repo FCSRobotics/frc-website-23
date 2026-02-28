@@ -75,10 +75,6 @@
 		padding: 2vw;
 	}
 
-	#title{
-		text-align: center; 
-		font-family: "Noto Sans", sans-serif;
-	}
 
 
 	img {

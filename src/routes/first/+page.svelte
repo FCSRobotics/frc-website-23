@@ -64,12 +64,6 @@
 		padding: 2vw;
 	}
 
-	#title{
-		text-align: center; 
-	}
-
-
-
 	img {
 		width: 60%;
 	}
