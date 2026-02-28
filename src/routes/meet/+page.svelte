@@ -6,7 +6,7 @@
 <h1>Mentors</h1>
 <div class="team-grid">
   <Person src="/people/mscho.jpg" name="Matthew Schoifet" alt="Schozus" /> 
-  <Person src="/people/AkashS.jpeg" name="Akash Shah" alt="Akash Shah" /> <!--add-->
+  <Person src="/people/AkashS.jpeg" name="Akash" alt="Akash Shah" /> <!--add-->
   <Person src="/people/SharonK.jpeg" name="Sharon" alt="Sharon" /> <!--add-->
   <Person src="/people/BenMentor.jpeg" name="Ben" alt="Ben" /> <!--add-->
   <Person src="/people/MikeD.jpeg" name="Mike" alt="Mike" /> 
